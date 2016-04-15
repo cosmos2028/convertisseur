@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413928712 source:c:\users\izer\documents\codeblocks\convertisseurmulti\main.c
+	<stdio.h>
+	<stdlib.h>
+
